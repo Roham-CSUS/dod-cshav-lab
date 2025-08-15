@@ -13,7 +13,7 @@ This lab supports **research**, **education**, and **outreach** in the areas of:
 
 ## 🏆 DoD Award Overview
 
-This project is funded through the [DoD HBCU/MI Research and Education Program (FY2024)](https://media.defense.gov/2024/Oct/07/2003560585/-1/-1/1/FULL-LIST-DEPARTMENT-OF-DEFENSE-AWARDS-50-MILLION-IN-RESEARCH-EQUIPMENT-GRANTS-TO-HBCUS-AND-MINORITY-SERVING-INSTITUTIONS.PDF), which supports the acquisition of research instrumentation at minority-serving institutions. Our grant enables the setup of an advanced lab environment for cutting-edge experiments and K-12 outreach.
+This project is funded through the [DoD HBCU/MI Research and Education Program (FY2024)](https://www.defense.gov/News/Releases/Release/Article/3928512/department-of-defense-awards-50-million-in-research-equipment-grants-to-hbcus-a/#:~:text=The%20Department%20of%20Defense%20today,of%20research%20and%20scientific%20equipment.), which supports the acquisition of research instrumentation at minority-serving institutions. Our grant enables the setup of an advanced lab environment for cutting-edge experiments and K-12 outreach.
 
 ---
 
