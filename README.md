@@ -22,8 +22,8 @@ This project is funded through the [DoD HBCU/MI Research and Education Program (
 ```text
 dod-cshav-lab-sacstate/
 ├── images/                  → Lab photos, diagrams, thumbnails
-├── lab-Setup/               → Hardware, networking, equipment setup guides
-├── Test Videos/             → Experiment folders and video documentation
-│   └── QDrone/              → Test-specific .md files with YouTube links
+├── lab-Setup/               → Hardware, Drone Cage setup guides
+├── test-videos/             → Experiment folders and video documentation
+│   └── qdrone/              → Test-specific .md files with YouTube links
 ├── docs/                    → Public-facing files served via GitHub Pages
 └── README.md                → This file
