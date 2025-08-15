@@ -21,9 +21,8 @@ This project is funded through the [DoD HBCU/MI Research and Education Program (
 
 ```text
 dod-cshav-lab-sacstate/
-├── Images/                  → Lab photos, diagrams, thumbnails
-├── Lab Setup/               → Hardware, networking, equipment setup guides
-│   └── Cage_Structure_Interactive.html → Interactive lab visualization
+├── images/                  → Lab photos, diagrams, thumbnails
+├── lab-Setup/               → Hardware, networking, equipment setup guides
 ├── Test Videos/             → Experiment folders and video documentation
 │   └── QDrone/              → Test-specific .md files with YouTube links
 ├── docs/                    → Public-facing files served via GitHub Pages
