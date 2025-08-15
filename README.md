@@ -1,4 +1,4 @@
-# CS-AHV Lab – Cyber Security Autonomous Heterogeneous Vehicles Laboratory
+# Cyber Security Autonomous Heterogeneous Vehicles (CS-AHV) Laboratory 
 
 Welcome to the official GitHub repository for the **CS-AHV Lab** at **California State University, Sacramento**, developed under a Department of Defense (DoD) FY2024 Equipment and Instrumentation Grant.
 
