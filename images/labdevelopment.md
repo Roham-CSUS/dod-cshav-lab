@@ -1,7 +1,9 @@
-# QDrone Hovering Test Setup
+# Images from lab setup
+<p align="center">
+  <img src="cshav-lab.jpg" width="200">
+  <img src="cshav-lab.jpg" width="200">
+  <img src="cshav-lab.jpg" width="200">
+</p>
 
-This test demonstrates the **initial hover of a Quanser QDrone** in the CS-AHV Lab at Sac State. 
-
-![Alt text](cshav-lab.jpg)]
 
 
