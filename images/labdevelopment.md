@@ -13,13 +13,13 @@
   <tr>
     <td><img src="lab-drone.png" width="300"></td>
     <td><img src="lab-qbotdrone.png" width="300"></td>
-    <td><img src="lab5.png" width="300"></td>
+    <td><img src="sdsc1.png" width="300"></td>
   </tr>
 </table>
 
 <!--
 <p align="center">
- <img src="cshav-lab.jpg" width="300">
+ <img src="Qcars.png" width="300">
  <img src="cshav-lab.jpg" width="300">
  <img src="cshav-lab.jpg" width="300">
 </p>
