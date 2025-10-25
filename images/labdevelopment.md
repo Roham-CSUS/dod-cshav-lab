@@ -15,6 +15,11 @@
     <td><img src="lab-qbotdrone.png" width="300"></td>
     <td><img src="sdsc1.png" width="300"></td>
   </tr>
+  <tr>
+    <td><img src="Qcars.png" width="300"></td>
+    <td><img src="lab-qbotdrone.png" width="300"></td>
+    <td><img src="sdsc1.png" width="300"></td>
+  </tr>
 </table>
 
 <!--
