@@ -7,14 +7,14 @@
 
 <table>
   <tr>
-    <td><img src="cshav-lab.jpg" width="150"></td>
-    <td><img src="cshav-lab.jpg" width="150"></td>
-    <td><img src="cshav-lab.jpg" width="150"></td>
+    <td><img src="cshav-lab.jpg" width="300"></td>
+    <td><img src="cshav-lab.jpg" width="300"></td>
+    <td><img src="cshav-lab.jpg" width="300"></td>
   </tr>
   <tr>
-    <td><img src="cshav-lab.jpg" width="150"></td>
-    <td><img src="cshav-lab.jpg" width="150"></td>
-    <td><img src="cshav-lab.jpg" width="150"></td>
+    <td><img src="cshav-lab.jpg" width="300"></td>
+    <td><img src="cshav-lab.jpg" width="300"></td>
+    <td><img src="cshav-lab.jpg" width="300"></td>
   </tr>
 </table>
 
