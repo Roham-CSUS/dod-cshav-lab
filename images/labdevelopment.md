@@ -2,6 +2,6 @@
 
 This test demonstrates the **initial hover of a Quanser QDrone** in the CS-AHV Lab at Sac State. 
 
-(../../images/cshav-lab.jpg)]
+![Alt text](../../images/cshav-lab.jpg)]
 
 
