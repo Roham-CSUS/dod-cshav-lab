@@ -1,8 +1,8 @@
 # Images from Laboratory Development and Setup
 <table>
   <tr>
-    <td><img src="cshav-lab.jpg" width="300"></td>
-    <td><img src="cshav-lab.jpg" width="300"></td>
+    <td><img src="lab0.png" width="300"></td>
+    <td><img src="lab.jpg" width="300"></td>
     <td><img src="cshav-lab.jpg" width="300"></td>
   </tr>
   <tr>
