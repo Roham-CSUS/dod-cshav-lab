@@ -11,8 +11,8 @@
     <td><img src="lab5.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="lab3.png" width="300"></td>
-    <td><img src="lab4.png" width="300"></td>
+    <td><img src="lab-drone.png" width="300"></td>
+    <td><img src="lab-qbotdrone.png" width="300"></td>
     <td><img src="lab5.png" width="300"></td>
   </tr>
 </table>
