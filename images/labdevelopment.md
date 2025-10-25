@@ -3,17 +3,17 @@
   <tr>
     <td><img src="lab0.png" width="300"></td>
     <td><img src="lab1.jpg" width="300"></td>
-    <td><img src="lab2.jpg" width="300"></td>
+    <td><img src="lab2.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="lab3.jpg" width="300"></td>
-    <td><img src="lab4.jpg" width="300"></td>
-    <td><img src="lab5.jpg" width="300"></td>
+    <td><img src="lab3.png" width="300"></td>
+    <td><img src="lab4.png" width="300"></td>
+    <td><img src="lab5.png" width="300"></td>
   </tr>
   <tr>
-    <td><img src="lab3.jpg" width="300"></td>
-    <td><img src="lab4.jpg" width="300"></td>
-    <td><img src="lab5.jpg" width="300"></td>
+    <td><img src="lab3.png" width="300"></td>
+    <td><img src="lab4.png" width="300"></td>
+    <td><img src="lab5.png" width="300"></td>
   </tr>
 </table>
 
